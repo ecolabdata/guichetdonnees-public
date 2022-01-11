@@ -1,0 +1,21 @@
+{
+    "administration-centrale-ou-ministere_172120": {
+        "base_filter": [["Not", "PropertyIsLike", "OrganisationName", "SOeS"], ["Not", "PropertyIsLike", "OrganisationName", "SDES"]],
+        "comment": "Exclusion via base_filter des jeux du SDES et du SOeS, pour éviter de les récupérer deux fois quand l'organisation est CGDD/SDES ou équivalent."
+    },
+    "administration-centrale-ou-ministere_178624": {
+        "add_filter": [["PropertyIsLike", "OrganisationName", "SOeS"]]
+    },
+    "driea_ut-92050-01": {
+        "add_filter": [["PropertyIsLike", "OrganisationName", "UTEA92"]],
+        "comment": "UTEA92 permet aujourd'hui de récupérer le patrimoine de l'unité départementale sur GéoIDE."
+    },
+    "ddt-59350-01" : {
+        "add_filter": [[["PropertyIsLike", "OrganisationName", "Nord"], ["PropertyIsLike", "OrganisationName", "DDTM"]]],
+        "comment": "L'add_filter permet de récupérer les fiches de la DDTM sur GéoIDE. Il n'est pas généré automatiquement, car 'Nord' apparaît dans de nombreux noms de DIR et DIRM, mais la combinaison 'DDTM' + 'Nord' peut être considérée comme discriminante."
+    },
+    "ddt-42218-01" : {
+        "bypass_all": [[["PropertyIsLike", "OrganisationName", "42"], ["PropertyIsLike", "OrganisationName", "DDT"]], [["PropertyIsLike", "OrganisationName", "Direction"], ["PropertyIsLike", "OrganisationName", "départementale"], ["PropertyIsLike", "OrganisationName", "territoires"], ["PropertyIsLike", "OrganisationName", "42"]]],
+        "comment": "En théorie, il est possible de construire un filtre discriminant avec 'Loire'... mais en pratique non."
+    }
+}

@@ -1,0 +1,1028 @@
+{
+    "agriculture": {
+        "name": "agriculture",
+        "title": "Agriculture"
+    },
+    "air-climat": {
+        "name": "air-climat",
+        "title": "Air & climat"
+    },
+    "amenagement-urbanisme": {
+        "name": "amenagement-urbanisme",
+        "title": "Aménagement & urbanisme"
+    },
+    "culture-societe-services": {
+        "name": "culture-societe-services",
+        "title": "Culture, société & services"
+    },
+    "deplacements": {
+        "name": "deplacements",
+        "title": "Déplacements"
+    },
+    "donnees-generiques": {
+        "name": "donnees-generiques",
+        "title": "Données génériques"
+    },
+    "eau": {
+        "name": "eau",
+        "title": "Eau"
+    },
+    "foncier-sol": {
+        "name": "foncier-sol",
+        "title": "Foncier & sol"
+    },
+    "foret": {
+        "name": "foret",
+        "title": "Forêt"
+    },
+    "habitat-politique-de-la-ville": {
+        "name": "habitat-politique-de-la-ville",
+        "title": "Habitat & politique de la ville"
+    },
+    "infrastructures-de-transport": {
+        "name": "infrastructures-de-transport",
+        "title": "Infrastructures de transport"
+    },
+    "mer-littoral": {
+        "name": "mer-littoral",
+        "title": "Mer & littoral"
+    },
+    "nature-paysage-biodiversite": {
+        "name": "nature-paysage-biodiversite",
+        "title": "Nature, paysage & biodiversité"
+    },
+    "nuisances": {
+        "name": "nuisances",
+        "title": "Nuisances"
+    },
+    "reseaux-energie": {
+        "name": "reseaux-energie",
+        "title": "Réseaux & énergie"
+    },
+    "risques": {
+        "name": "risques",
+        "title": "Risques"
+    },
+    "sites-industriels-production": {
+        "name": "sites-industriels-production",
+        "title": "Sites industriels & production"
+    },
+    "agriculture-agro-alimentaire": {
+        "name": "agriculture-agro-alimentaire",
+        "title": "Agro-alimentaire",
+        "groups": [
+            {
+                "name": "agriculture"
+            }
+        ]
+    },
+    "agriculture-environnement": {
+        "name": "agriculture-environnement",
+        "title": "Environnement",
+        "groups": [
+            {
+                "name": "agriculture"
+            }
+        ]
+    },
+    "agriculture-exploitation-elevage": {
+        "name": "agriculture-exploitation-elevage",
+        "title": "Exploitation & élevage",
+        "groups": [
+            {
+                "name": "agriculture"
+            }
+        ]
+    },
+    "agriculture-parcellaire-agricole": {
+        "name": "agriculture-parcellaire-agricole",
+        "title": "Parcellaire agricole",
+        "groups": [
+            {
+                "name": "agriculture"
+            }
+        ]
+    },
+    "agriculture-sante-animale": {
+        "name": "agriculture-sante-animale",
+        "title": "Santé animale",
+        "groups": [
+            {
+                "name": "agriculture"
+            }
+        ]
+    },
+    "agriculture-sante-vegetale": {
+        "name": "agriculture-sante-vegetale",
+        "title": "Santé végétale",
+        "groups": [
+            {
+                "name": "agriculture"
+            }
+        ]
+    },
+    "agriculture-zonages-agricoles": {
+        "name": "agriculture-zonages-agricoles",
+        "title": "Zonages agricoles",
+        "groups": [
+            {
+                "name": "agriculture"
+            }
+        ]
+    },
+    "air-climat-changement-climatique": {
+        "name": "air-climat-changement-climatique",
+        "title": "Changement climatique",
+        "groups": [
+            {
+                "name": "air-climat"
+            }
+        ]
+    },
+    "air-climat-meteorologie": {
+        "name": "air-climat-meteorologie",
+        "title": "Météorologie",
+        "groups": [
+            {
+                "name": "air-climat"
+            }
+        ]
+    },
+    "air-climat-qualite-de-l-air-pollution": {
+        "name": "air-climat-qualite-de-l-air-pollution",
+        "title": "Qualité de l’air & pollution",
+        "groups": [
+            {
+                "name": "air-climat"
+            }
+        ]
+    },
+    "amenagement-urbanisme-assiettes-des-servitudes": {
+        "name": "amenagement-urbanisme-assiettes-des-servitudes",
+        "title": "Assiettes des servitudes",
+        "groups": [
+            {
+                "name": "amenagement-urbanisme"
+            }
+        ]
+    },
+    "amenagement-urbanisme-politique-europeenne": {
+        "name": "amenagement-urbanisme-politique-europeenne",
+        "title": "Politique européenne",
+        "groups": [
+            {
+                "name": "amenagement-urbanisme"
+            }
+        ]
+    },
+    "amenagement-urbanisme-zonages-d-amenagement": {
+        "name": "amenagement-urbanisme-zonages-d-amenagement",
+        "title": "Zonages d’aménagement",
+        "groups": [
+            {
+                "name": "amenagement-urbanisme"
+            }
+        ]
+    },
+    "amenagement-urbanisme-zonages-d-etudes": {
+        "name": "amenagement-urbanisme-zonages-d-etudes",
+        "title": "Zonages d’études",
+        "groups": [
+            {
+                "name": "amenagement-urbanisme"
+            }
+        ]
+    },
+    "amenagement-urbanisme-zonages-de-planification": {
+        "name": "amenagement-urbanisme-zonages-de-planification",
+        "title": "Zonages de planification",
+        "groups": [
+            {
+                "name": "amenagement-urbanisme"
+            }
+        ]
+    },
+    "culture-societe-services-autres-etablissements": {
+        "name": "culture-societe-services-autres-etablissements",
+        "title": "Autres établissements",
+        "groups": [
+            {
+                "name": "culture-societe-services"
+            }
+        ]
+    },
+    "culture-societe-services-enseignement": {
+        "name": "culture-societe-services-enseignement",
+        "title": "Enseignement",
+        "groups": [
+            {
+                "name": "culture-societe-services"
+            }
+        ]
+    },
+    "culture-societe-services-quipements-sportifs-et-culturels": {
+        "name": "culture-societe-services-quipements-sportifs-et-culturels",
+        "title": "Équipements sportifs et culturels",
+        "groups": [
+            {
+                "name": "culture-societe-services"
+            }
+        ]
+    },
+    "culture-societe-services-patrimoine-culturel": {
+        "name": "culture-societe-services-patrimoine-culturel",
+        "title": "Patrimoine culturel",
+        "groups": [
+            {
+                "name": "culture-societe-services"
+            }
+        ]
+    },
+    "culture-societe-services-sante-social": {
+        "name": "culture-societe-services-sante-social",
+        "title": "Santé & social",
+        "groups": [
+            {
+                "name": "culture-societe-services"
+            }
+        ]
+    },
+    "culture-societe-services-tourisme": {
+        "name": "culture-societe-services-tourisme",
+        "title": "Tourisme",
+        "groups": [
+            {
+                "name": "culture-societe-services"
+            }
+        ]
+    },
+    "deplacements-securite-routiere": {
+        "name": "deplacements-securite-routiere",
+        "title": "Sécurité routière",
+        "groups": [
+            {
+                "name": "deplacements"
+            }
+        ]
+    },
+    "deplacements-trafic": {
+        "name": "deplacements-trafic",
+        "title": "Trafic",
+        "groups": [
+            {
+                "name": "deplacements"
+            }
+        ]
+    },
+    "deplacements-transport-collectif": {
+        "name": "deplacements-transport-collectif",
+        "title": "Transport collectif",
+        "groups": [
+            {
+                "name": "deplacements"
+            }
+        ]
+    },
+    "deplacements-transport-de-marchandises": {
+        "name": "deplacements-transport-de-marchandises",
+        "title": "Transport de marchandises",
+        "groups": [
+            {
+                "name": "deplacements"
+            }
+        ]
+    },
+    "deplacements-transport-de-matieres-dangereuses": {
+        "name": "deplacements-transport-de-matieres-dangereuses",
+        "title": "Transport de matières dangereuses",
+        "groups": [
+            {
+                "name": "deplacements"
+            }
+        ]
+    },
+    "deplacements-transport-exceptionnel": {
+        "name": "deplacements-transport-exceptionnel",
+        "title": "Transport exceptionnel",
+        "groups": [
+            {
+                "name": "deplacements"
+            }
+        ]
+    },
+    "donnees-generiques-action-publique": {
+        "name": "donnees-generiques-action-publique",
+        "title": "Action publique",
+        "groups": [
+            {
+                "name": "donnees-generiques"
+            }
+        ]
+    },
+    "donnees-generiques-decoupage-administratif": {
+        "name": "donnees-generiques-decoupage-administratif",
+        "title": "Découpage administratif",
+        "groups": [
+            {
+                "name": "donnees-generiques"
+            }
+        ]
+    },
+    "donnees-generiques-decoupage-electoral": {
+        "name": "donnees-generiques-decoupage-electoral",
+        "title": "Découpage électoral",
+        "groups": [
+            {
+                "name": "donnees-generiques"
+            }
+        ]
+    },
+    "donnees-generiques-demographie": {
+        "name": "donnees-generiques-demographie",
+        "title": "Démographie",
+        "groups": [
+            {
+                "name": "donnees-generiques"
+            }
+        ]
+    },
+    "donnees-generiques-habillage-des-cartes": {
+        "name": "donnees-generiques-habillage-des-cartes",
+        "title": "Habillage des cartes",
+        "groups": [
+            {
+                "name": "donnees-generiques"
+            }
+        ]
+    },
+    "donnees-generiques-intercommunalite": {
+        "name": "donnees-generiques-intercommunalite",
+        "title": "Intercommunalité",
+        "groups": [
+            {
+                "name": "donnees-generiques"
+            }
+        ]
+    },
+    "donnees-generiques-milieu-physique": {
+        "name": "donnees-generiques-milieu-physique",
+        "title": "Milieu physique",
+        "groups": [
+            {
+                "name": "donnees-generiques"
+            }
+        ]
+    },
+    "eau-alimentation-en-eau-potable": {
+        "name": "eau-alimentation-en-eau-potable",
+        "title": "Alimentation en eau potable",
+        "groups": [
+            {
+                "name": "eau"
+            }
+        ]
+    },
+    "eau-assainissement": {
+        "name": "eau-assainissement",
+        "title": "Assainissement",
+        "groups": [
+            {
+                "name": "eau"
+            }
+        ]
+    },
+    "eau-autres-utilisations": {
+        "name": "eau-autres-utilisations",
+        "title": "Autres utilisations",
+        "groups": [
+            {
+                "name": "eau"
+            }
+        ]
+    },
+    "eau-masses-d-eau": {
+        "name": "eau-masses-d-eau",
+        "title": "Masses d’eau",
+        "groups": [
+            {
+                "name": "eau"
+            }
+        ]
+    },
+    "eau-ouvrages": {
+        "name": "eau-ouvrages",
+        "title": "Ouvrages",
+        "groups": [
+            {
+                "name": "eau"
+            }
+        ]
+    },
+    "eau-peche": {
+        "name": "eau-peche",
+        "title": "Pêche",
+        "groups": [
+            {
+                "name": "eau"
+            }
+        ]
+    },
+    "eau-surveillance": {
+        "name": "eau-surveillance",
+        "title": "Surveillance",
+        "groups": [
+            {
+                "name": "eau"
+            }
+        ]
+    },
+    "eau-travaux-entretien": {
+        "name": "eau-travaux-entretien",
+        "title": "Travaux & entretien",
+        "groups": [
+            {
+                "name": "eau"
+            }
+        ]
+    },
+    "eau-zonages-eau": {
+        "name": "eau-zonages-eau",
+        "title": "Zonages eau",
+        "groups": [
+            {
+                "name": "eau"
+            }
+        ]
+    },
+    "foncier-sol-foncier-agricole": {
+        "name": "foncier-sol-foncier-agricole",
+        "title": "Foncier agricole",
+        "groups": [
+            {
+                "name": "foncier-sol"
+            }
+        ]
+    },
+    "foncier-sol-mutations-foncieres": {
+        "name": "foncier-sol-mutations-foncieres",
+        "title": "Mutations foncières",
+        "groups": [
+            {
+                "name": "foncier-sol"
+            }
+        ]
+    },
+    "foncier-sol-occupation-du-sol": {
+        "name": "foncier-sol-occupation-du-sol",
+        "title": "Occupation du sol",
+        "groups": [
+            {
+                "name": "foncier-sol"
+            }
+        ]
+    },
+    "foncier-sol-proprietes-foncieres": {
+        "name": "foncier-sol-proprietes-foncieres",
+        "title": "Propriétés foncières",
+        "groups": [
+            {
+                "name": "foncier-sol"
+            }
+        ]
+    },
+    "foret-defense-de-la-foret-contre-les-incendies": {
+        "name": "foret-defense-de-la-foret-contre-les-incendies",
+        "title": "Défense de la forêt contre les incendies",
+        "groups": [
+            {
+                "name": "foret"
+            }
+        ]
+    },
+    "foret-description": {
+        "name": "foret-description",
+        "title": "Description",
+        "groups": [
+            {
+                "name": "foret"
+            }
+        ]
+    },
+    "foret-gestion": {
+        "name": "foret-gestion",
+        "title": "Gestion",
+        "groups": [
+            {
+                "name": "foret"
+            }
+        ]
+    },
+    "foret-reglement": {
+        "name": "foret-reglement",
+        "title": "Règlement",
+        "groups": [
+            {
+                "name": "foret"
+            }
+        ]
+    },
+    "foret-transformation": {
+        "name": "foret-transformation",
+        "title": "Transformation",
+        "groups": [
+            {
+                "name": "foret"
+            }
+        ]
+    },
+    "habitat-politique-de-la-ville-accession-a-la-propriete": {
+        "name": "habitat-politique-de-la-ville-accession-a-la-propriete",
+        "title": "Accession à la propriété",
+        "groups": [
+            {
+                "name": "habitat-politique-de-la-ville"
+            }
+        ]
+    },
+    "habitat-politique-de-la-ville-besoin-en-logements": {
+        "name": "habitat-politique-de-la-ville-besoin-en-logements",
+        "title": "Besoin en logements",
+        "groups": [
+            {
+                "name": "habitat-politique-de-la-ville"
+            }
+        ]
+    },
+    "habitat-politique-de-la-ville-construction": {
+        "name": "habitat-politique-de-la-ville-construction",
+        "title": "Construction",
+        "groups": [
+            {
+                "name": "habitat-politique-de-la-ville"
+            }
+        ]
+    },
+    "habitat-politique-de-la-ville-habitat-indigne": {
+        "name": "habitat-politique-de-la-ville-habitat-indigne",
+        "title": "Habitat indigne",
+        "groups": [
+            {
+                "name": "habitat-politique-de-la-ville"
+            }
+        ]
+    },
+    "habitat-politique-de-la-ville-occupation-des-logements": {
+        "name": "habitat-politique-de-la-ville-occupation-des-logements",
+        "title": "Occupation des logements",
+        "groups": [
+            {
+                "name": "habitat-politique-de-la-ville"
+            }
+        ]
+    },
+    "habitat-politique-de-la-ville-parc-de-logements": {
+        "name": "habitat-politique-de-la-ville-parc-de-logements",
+        "title": "Parc de logements",
+        "groups": [
+            {
+                "name": "habitat-politique-de-la-ville"
+            }
+        ]
+    },
+    "habitat-politique-de-la-ville-parc-locatif-social": {
+        "name": "habitat-politique-de-la-ville-parc-locatif-social",
+        "title": "Parc locatif social",
+        "groups": [
+            {
+                "name": "habitat-politique-de-la-ville"
+            }
+        ]
+    },
+    "habitat-politique-de-la-ville-politique": {
+        "name": "habitat-politique-de-la-ville-politique",
+        "title": "Politique",
+        "groups": [
+            {
+                "name": "habitat-politique-de-la-ville"
+            }
+        ]
+    },
+    "habitat-politique-de-la-ville-renovation": {
+        "name": "habitat-politique-de-la-ville-renovation",
+        "title": "Rénovation",
+        "groups": [
+            {
+                "name": "habitat-politique-de-la-ville"
+            }
+        ]
+    },
+    "infrastructures-de-transport-aerien": {
+        "name": "infrastructures-de-transport-aerien",
+        "title": "Aérien",
+        "groups": [
+            {
+                "name": "infrastructures-de-transport"
+            }
+        ]
+    },
+    "infrastructures-de-transport-circulation-douce": {
+        "name": "infrastructures-de-transport-circulation-douce",
+        "title": "Circulation douce",
+        "groups": [
+            {
+                "name": "infrastructures-de-transport"
+            }
+        ]
+    },
+    "infrastructures-de-transport-ferroviaire": {
+        "name": "infrastructures-de-transport-ferroviaire",
+        "title": "Ferroviaire",
+        "groups": [
+            {
+                "name": "infrastructures-de-transport"
+            }
+        ]
+    },
+    "infrastructures-de-transport-fluvial": {
+        "name": "infrastructures-de-transport-fluvial",
+        "title": "Fluvial",
+        "groups": [
+            {
+                "name": "infrastructures-de-transport"
+            }
+        ]
+    },
+    "infrastructures-de-transport-maritime": {
+        "name": "infrastructures-de-transport-maritime",
+        "title": "Maritime",
+        "groups": [
+            {
+                "name": "infrastructures-de-transport"
+            }
+        ]
+    },
+    "infrastructures-de-transport-plateformes-multimodales": {
+        "name": "infrastructures-de-transport-plateformes-multimodales",
+        "title": "Plateformes multimodales",
+        "groups": [
+            {
+                "name": "infrastructures-de-transport"
+            }
+        ]
+    },
+    "infrastructures-de-transport-routier": {
+        "name": "infrastructures-de-transport-routier",
+        "title": "Routier",
+        "groups": [
+            {
+                "name": "infrastructures-de-transport"
+            }
+        ]
+    },
+    "mer-littoral-autres-activites": {
+        "name": "mer-littoral-autres-activites",
+        "title": "Autres activités",
+        "groups": [
+            {
+                "name": "mer-littoral"
+            }
+        ]
+    },
+    "mer-littoral-chasse-maritime": {
+        "name": "mer-littoral-chasse-maritime",
+        "title": "Chasse maritime",
+        "groups": [
+            {
+                "name": "mer-littoral"
+            }
+        ]
+    },
+    "mer-littoral-culture-marine": {
+        "name": "mer-littoral-culture-marine",
+        "title": "Culture marine",
+        "groups": [
+            {
+                "name": "mer-littoral"
+            }
+        ]
+    },
+    "mer-littoral-cologie-du-littoral": {
+        "name": "mer-littoral-cologie-du-littoral",
+        "title": "Écologie du littoral",
+        "groups": [
+            {
+                "name": "mer-littoral"
+            }
+        ]
+    },
+    "mer-littoral-limites-administratives-speciales": {
+        "name": "mer-littoral-limites-administratives-speciales",
+        "title": "Limites administratives spéciales",
+        "groups": [
+            {
+                "name": "mer-littoral"
+            }
+        ]
+    },
+    "mer-littoral-lutte-anti-pollution": {
+        "name": "mer-littoral-lutte-anti-pollution",
+        "title": "Lutte anti-pollution",
+        "groups": [
+            {
+                "name": "mer-littoral"
+            }
+        ]
+    },
+    "mer-littoral-navigation-maritime": {
+        "name": "mer-littoral-navigation-maritime",
+        "title": "Navigation maritime",
+        "groups": [
+            {
+                "name": "mer-littoral"
+            }
+        ]
+    },
+    "mer-littoral-peche-maritime": {
+        "name": "mer-littoral-peche-maritime",
+        "title": "Pêche maritime",
+        "groups": [
+            {
+                "name": "mer-littoral"
+            }
+        ]
+    },
+    "mer-littoral-topographie": {
+        "name": "mer-littoral-topographie",
+        "title": "Topographie",
+        "groups": [
+            {
+                "name": "mer-littoral"
+            }
+        ]
+    },
+    "nature-paysage-biodiversite-chasse": {
+        "name": "nature-paysage-biodiversite-chasse",
+        "title": "Chasse",
+        "groups": [
+            {
+                "name": "nature-paysage-biodiversite"
+            }
+        ]
+    },
+    "nature-paysage-biodiversite-inventaires-nature-biodiversite": {
+        "name": "nature-paysage-biodiversite-inventaires-nature-biodiversite",
+        "title": "Inventaires nature & biodiversité",
+        "groups": [
+            {
+                "name": "nature-paysage-biodiversite"
+            }
+        ]
+    },
+    "nature-paysage-biodiversite-inventaires-paysages": {
+        "name": "nature-paysage-biodiversite-inventaires-paysages",
+        "title": "Inventaires paysages",
+        "groups": [
+            {
+                "name": "nature-paysage-biodiversite"
+            }
+        ]
+    },
+    "nature-paysage-biodiversite-zonages-nature": {
+        "name": "nature-paysage-biodiversite-zonages-nature",
+        "title": "Zonages nature",
+        "groups": [
+            {
+                "name": "nature-paysage-biodiversite"
+            }
+        ]
+    },
+    "nature-paysage-biodiversite-zonages-paysages": {
+        "name": "nature-paysage-biodiversite-zonages-paysages",
+        "title": "Zonages paysages",
+        "groups": [
+            {
+                "name": "nature-paysage-biodiversite"
+            }
+        ]
+    },
+    "nuisances-bruit": {
+        "name": "nuisances-bruit",
+        "title": "Bruit",
+        "groups": [
+            {
+                "name": "nuisances"
+            }
+        ]
+    },
+    "nuisances-dechets": {
+        "name": "nuisances-dechets",
+        "title": "Déchets",
+        "groups": [
+            {
+                "name": "nuisances"
+            }
+        ]
+    },
+    "nuisances-nuisances-electromagnetiques": {
+        "name": "nuisances-nuisances-electromagnetiques",
+        "title": "Nuisances électromagnétiques",
+        "groups": [
+            {
+                "name": "nuisances"
+            }
+        ]
+    },
+    "nuisances-pollution-des-sols": {
+        "name": "nuisances-pollution-des-sols",
+        "title": "Pollution des sols",
+        "groups": [
+            {
+                "name": "nuisances"
+            }
+        ]
+    },
+    "reseaux-energie-amenagement-numerique-du-territoire": {
+        "name": "reseaux-energie-amenagement-numerique-du-territoire",
+        "title": "Aménagement numérique du territoire",
+        "groups": [
+            {
+                "name": "reseaux-energie"
+            }
+        ]
+    },
+    "reseaux-energie-autre": {
+        "name": "reseaux-energie-autre",
+        "title": "Autre",
+        "groups": [
+            {
+                "name": "reseaux-energie"
+            }
+        ]
+    },
+    "reseaux-energie-lectricite": {
+        "name": "reseaux-energie-lectricite",
+        "title": "Électricité",
+        "groups": [
+            {
+                "name": "reseaux-energie"
+            }
+        ]
+    },
+    "reseaux-energie-hydrocarbures": {
+        "name": "reseaux-energie-hydrocarbures",
+        "title": "Hydrocarbures",
+        "groups": [
+            {
+                "name": "reseaux-energie"
+            }
+        ]
+    },
+    "reseaux-energie-telecommunications": {
+        "name": "reseaux-energie-telecommunications",
+        "title": "Télécommunications",
+        "groups": [
+            {
+                "name": "reseaux-energie"
+            }
+        ]
+    },
+    "risques-avalanche": {
+        "name": "risques-avalanche",
+        "title": "Avalanche",
+        "groups": [
+            {
+                "name": "risques"
+            }
+        ]
+    },
+    "risques-ruptions-volcaniques": {
+        "name": "risques-ruptions-volcaniques",
+        "title": "Éruptions volcaniques",
+        "groups": [
+            {
+                "name": "risques"
+            }
+        ]
+    },
+    "risques-gestion-des-risques": {
+        "name": "risques-gestion-des-risques",
+        "title": "Gestion des risques",
+        "groups": [
+            {
+                "name": "risques"
+            }
+        ]
+    },
+    "risques-inondations": {
+        "name": "risques-inondations",
+        "title": "Inondations",
+        "groups": [
+            {
+                "name": "risques"
+            }
+        ]
+    },
+    "risques-mouvements-de-terrain": {
+        "name": "risques-mouvements-de-terrain",
+        "title": "Mouvements de terrain",
+        "groups": [
+            {
+                "name": "risques"
+            }
+        ]
+    },
+    "risques-radon": {
+        "name": "risques-radon",
+        "title": "Radon",
+        "groups": [
+            {
+                "name": "risques"
+            }
+        ]
+    },
+    "risques-risques-miniers": {
+        "name": "risques-risques-miniers",
+        "title": "Risques miniers",
+        "groups": [
+            {
+                "name": "risques"
+            }
+        ]
+    },
+    "risques-risques-technologiques": {
+        "name": "risques-risques-technologiques",
+        "title": "Risques technologiques",
+        "groups": [
+            {
+                "name": "risques"
+            }
+        ]
+    },
+    "risques-seismes": {
+        "name": "risques-seismes",
+        "title": "Séismes",
+        "groups": [
+            {
+                "name": "risques"
+            }
+        ]
+    },
+    "risques-zonages-risques-naturels": {
+        "name": "risques-zonages-risques-naturels",
+        "title": "Zonages risques naturels",
+        "groups": [
+            {
+                "name": "risques"
+            }
+        ]
+    },
+    "risques-zonages-risques-technologiques": {
+        "name": "risques-zonages-risques-technologiques",
+        "title": "Zonages risques technologiques",
+        "groups": [
+            {
+                "name": "risques"
+            }
+        ]
+    },
+    "sites-industriels-production-mines-carrieres-granulats": {
+        "name": "sites-industriels-production-mines-carrieres-granulats",
+        "title": "Mines, carrières & granulats",
+        "groups": [
+            {
+                "name": "sites-industriels-production"
+            }
+        ]
+    },
+    "sites-industriels-production-sites-de-production-d-energie": {
+        "name": "sites-industriels-production-sites-de-production-d-energie",
+        "title": "Sites de production d’énergie",
+        "groups": [
+            {
+                "name": "sites-industriels-production"
+            }
+        ]
+    },
+    "sites-industriels-production-sites-eoliens": {
+        "name": "sites-industriels-production-sites-eoliens",
+        "title": "Sites éoliens",
+        "groups": [
+            {
+                "name": "sites-industriels-production"
+            }
+        ]
+    },
+    "sites-industriels-production-sites-industriels": {
+        "name": "sites-industriels-production-sites-industriels",
+        "title": "Sites industriels",
+        "groups": [
+            {
+                "name": "sites-industriels-production"
+            }
+        ]
+    },
+    "socio-economie": {
+        "name": "socio-economie",
+        "title": "Socio-économie"
+    }
+}

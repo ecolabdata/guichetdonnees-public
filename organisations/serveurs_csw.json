@@ -1,0 +1,148 @@
+{
+    "http://ogc.geo-ide.developpement-durable.gouv.fr/csw/dataset-harvestable": {
+        "title": "GéoIDE Catalogue",
+        "kind": "geoide",
+        "maxtrials": 30,
+        "page": "http://catalogue.geo-ide.developpement-durable.gouv.fr",
+        "restrictions" : {
+            "lots": [["PropertyIsLike", "Identifier", "fr-120066022-ldd-%"]],
+            "jeux de données": [["PropertyIsLike", "Identifier", "fr-120066022-jdd-%"]]
+        }
+    },
+    "https://inspire.ternum-bfc.fr/geonetwork/srv/fre/csw": {
+        "title": "IDéo BFC",
+        "kind": "geonetwork",
+        "base_filter": [["PropertyIsEqualTo", "dc:type", "dataset"], ["Not", "PropertyIsLike", "Identifier", "fr-120066022-%"]],
+        "page": "https://ideo.ternum-bfc.fr"
+    },
+    "https://www.datara.gouv.fr/geonetwork/srv/eng/csw-RAIN": {
+        "title": "datARA",
+        "kind": "geonetwork",
+        "base_filter": [["PropertyIsEqualTo", "dc:type", "dataset"]],
+        "page": "https://www.datara.gouv.fr"
+    },
+    "https://catalogue.sigloire.fr/geonetwork/srv/fr/csw-sigloire": {
+        "title": "SIGLOIRE",
+        "kind": "geonetwork",
+        "base_filter": [["PropertyIsEqualTo", "dc:type", "dataset"]],
+        "page": "http://www.sigloire.fr"
+    },
+    "https://www.picto-occitanie.fr/geonetwork/srv/fre/csw-geocatalogue": {
+        "title": "PICTO-Occitanie",
+        "kind": "geonetwork",
+        "base_filter": [["PropertyIsEqualTo", "dc:type", "dataset"]],
+        "page": "https://www.picto-occitanie.fr"
+    },
+    "http://geobretagne.fr/geonetwork/srv/fre/csw": {
+        "title": "GéoBretagne",
+        "kind": "geonetwork",
+        "base_filter": [["PropertyIsEqualTo", "dc:type", "dataset"], ["Not", "PropertyIsLike", "Identifier", "fr-120066022-%"], ["Not", "PropertyIsLike", "OrganisationName", "SANDRE"]],
+        "page": "https://cms.geobretagne.fr"
+    },
+    "http://metadata.carmencarto.fr/geonetwork/8/fre/csw": {
+        "title": "Catalogue Carmen de la DREAL Normandie",
+        "kind": "geonetwork",
+        "base_filter": [["PropertyIsEqualTo", "dc:type", "dataset"], ["Not", "PropertyIsLike", "Identifier", "fr-120066022-%"], ["Not", "PropertyIsLike", "OrganisationName", "SANDRE"]],
+        "page": "http://metadata.carmencarto.fr/geonetwork/8/fre/catalog.search#"
+    },
+    "https://www.geo2france.fr/geonetwork/srv/fre/csw": {
+        "title": "Géo2France",
+        "kind": "geonetwork",
+        "base_filter": [["PropertyIsEqualTo", "dc:type", "dataset"], ["Not", "PropertyIsLike", "Identifier", "fr-120066022-%"], ["Not", "PropertyIsLike", "OrganisationName", "SANDRE"]],
+        "page": "https://www.geo2france.fr"
+    },
+    "https://www.sigena.fr/geonetwork/srv/fre/csw": {
+        "title": "SIGENA",
+        "kind": "geonetwork",
+        "base_filter": [["PropertyIsEqualTo", "dc:type", "dataset"], ["Not", "PropertyIsLike", "Identifier", "fr-120066022-%"], ["Not", "PropertyIsLike", "OrganisationName", "SANDRE"]],
+        "page": "https://www.sigena.fr",
+        "include": ["dreal-86194-01", "ddt-16015-01", "ddt-17300-01", "ddt-19272-01", "ddt-23096-01", "ddt-24322-01", "ddt-33063-01", "ddt-40192-01", "ddt-47001-01", "ddt-64445-01", "ddt-79191-01", "ddt-86194-01", "ddt-87085-01", "did_routes-33063-01", "dir_mer-33063-01"]
+    },
+    "http://metadata.carmencarto.fr/geonetwork/11/fre/csw": {
+        "title": "Catalogue Carmen de la DREAL Centre-Val de Loire",
+        "kind": "geonetwork",
+        "base_filter": [["PropertyIsEqualTo", "dc:type", "dataset"]],
+        "page": "http://metadata.carmencarto.fr/geonetwork/11/fre/catalog.search#"
+    },
+    "https://www.karugeo.fr/geonetwork/srv/fre/csw": {
+        "title": "KaruGéo",
+        "kind": "geonetwork",
+        "base_filter": [["PropertyIsEqualTo", "dc:type", "dataset"], ["Not", "PropertyIsLike", "OrganisationName", "SANDRE"]],
+        "page": "https://www.karugeo.fr"
+    },
+    "https://catalogue.geoguyane.fr/geonetwork/srv/fr/csw-geoguyane": {
+        "title": "GéoGuyane",
+        "kind": "geonetwork",
+        "base_filter": [["PropertyIsEqualTo", "dc:type", "dataset"], ["Not", "PropertyIsLike", "OrganisationName", "SANDRE"]],
+        "page": "https://www.geoguyane.fr"
+    },
+    "http://metadata.carmencarto.fr/geonetwork/29/fre/csw": {
+        "title": "Catalogue Carmen de la DEAL Réunion",
+        "kind": "geonetwork",
+        "base_filter": [["PropertyIsEqualTo", "dc:type", "dataset"], ["Not", "PropertyIsLike", "OrganisationName", "SANDRE"]],
+        "page": "http://metadata.carmencarto.fr/geonetwork/29/fre/catalog.search#"
+    },
+    "http://www.geomartinique.fr/geonetwork/srv/fre/csw": {
+        "title": "GéoMartinique",
+        "kind": "geonetwork",
+        "base_filter": [["PropertyIsEqualTo", "dc:type", "dataset"], ["Not", "PropertyIsLike", "OrganisationName", "SANDRE"]],
+        "page": "https://www.geomartinique.fr"
+    },
+    "https://catalogue.georisques.gouv.fr/geonetwork/srv/fre/csw-georisques-rapportage": {
+        "title": "GéoRisques",
+        "kind": "geonetwork",
+        "base_filter": [["PropertyIsEqualTo", "dc:type", "dataset"]],
+        "page": "https://www.georisques.gouv.fr",
+        "comment": "Les réponses du serveur ne sont pas dé-sérialisables : 'lxml.etree.XMLSyntaxError: Space required after the Public Identifier, line 1, column 50'.",
+        "include": []
+    },
+    "http://www.sandre.eaufrance.fr/atlas/srv/fre/csw": {
+        "title": "Atlas-Catalogue du Sandre",
+        "kind": "geonetwork",
+        "base_filter": [["PropertyIsEqualTo", "dc:type", "dataset"]],
+        "page": "https://www.sandre.eaufrance.fr",
+        "comment": "Devrait théoriquement ramener aussi des moissonnages pour les DREAL de bassin, mais les noms sont très mal écrits."
+    },
+    "https://sextant.ifremer.fr/geonetwork/srv/fre/csw": {
+        "title": "Sextant",
+        "kind": "geonetwork",
+        "base_filter": [["PropertyIsEqualTo", "dc:type", "dataset"]],
+        "page": "https://sextant.ifremer.fr"
+    },
+    "https://www.cdata.cerema.fr/geonetwork/srv/fre/csw-catalogue-cdata": {
+        "title": "CeremaData",
+        "kind": "geonetwork",
+        "base_filter": [["PropertyIsEqualTo", "dc:type", "dataset"]],
+        "page": "https://www.cdata.cerema.fr"
+    },
+    "https://www.mongeosource.fr/geosource/1111/fre/csw": {
+        "title": "GéoLittoral",
+        "kind": "geonetwork",
+        "base_filter": [["PropertyIsEqualTo", "dc:type", "dataset"]],
+        "page": "http://www.geolittoral.developpement-durable.gouv.fr"
+    },
+    "https://www.observatoire-de-mayotte.fr/geonetwork/srv/fre/csw": {
+        "title": "Observatoire de Mayotte",
+        "kind": "geonetwork",
+        "base_filter": [["PropertyIsEqualTo", "dc:type", "dataset"], ["Not", "PropertyIsLike", "OrganisationName", "SANDRE"]],
+        "page": "https://www.observatoire-de-mayotte.fr"
+    },
+    "https://georchestra.ac-corse.fr/geonetwork/srv/fre/csw": {
+        "title": "Observatoire du Développement Durable de Corse",
+        "kind": "geonetwork",
+        "base_filter": [["PropertyIsEqualTo", "dc:type", "dataset"]],
+        "page": "https://georchestra.ac-corse.fr",
+        "comment": "PropertyIsLike est sensible à la casse.",
+        "bypass": {
+            "ddt-2b033-01": [[["PropertyIsEqualTo", "dc:type", "dataset"], ["PropertyIsLike", "OrganisationName", "%irection%"], ["PropertyIsLike", "OrganisationName", "%épartementale%"], ["PropertyIsLike", "OrganisationName", "%erritoires%"], ["PropertyIsLike", "OrganisationName", "%Haute%"], ["PropertyIsLike", "OrganisationName", "%Corse%"]]],
+            "ddt-2a004-01": [[["PropertyIsEqualTo", "dc:type", "dataset"], ["PropertyIsLike", "OrganisationName", "%irection%"], ["PropertyIsLike", "OrganisationName", "%épartementale%"], ["PropertyIsLike", "OrganisationName", "%erritoires%"], ["PropertyIsLike", "OrganisationName", "%Corse%"], ["PropertyIsLike", "OrganisationName", "%Sud%"]]],
+            "dreal-2a004-01": [[["PropertyIsEqualTo", "dc:type", "dataset"], ["PropertyIsLike", "OrganisationName", "%irection%"], ["PropertyIsLike", "OrganisationName", "%égionale%"], ["PropertyIsLike", "OrganisationName", "%nvironnement%"], ["PropertyIsLike", "OrganisationName", "%ménagement%"], ["PropertyIsLike", "OrganisationName", "%ogement%"], ["PropertyIsLike", "OrganisationName", "%Corse%"]]]
+        }
+    },
+    "https://wxs.ign.fr/catalogue/csw": {
+        "title": "Géoportail IGN",
+        "kind": "geonetwork",
+        "page": "http://www.geoportail.gouv.fr",
+        "comment": "Pas de filtre sur les datasets, car il y a visiblement des données pour lesquelles il n'existe que des fiches de services."
+    }
+}

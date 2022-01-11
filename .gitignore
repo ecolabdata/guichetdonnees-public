@@ -1,0 +1,4 @@
+__save__/
+__pycache__/
+organisations/jetons/jeton_api_ckan_*.*
+organisations/docs/build
