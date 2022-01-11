@@ -1,5 +1,7 @@
 # Gestion des organisations et des moissonnages
 
+[Le répertoire des organisations](#le-répertoire-des-organisations) • [Le répertoire des moissonnages](#le-répertoire-des-moissonnages) • [Le répertoire des serveurs CSW](#le-répertoire-des-serveurs-csw) • [Le fichier des statistiques](#le-fichier-des-statistiques) • [Maintenance des répertoires](#maintenance-des-répertoires) • [Répercuter les changements sur les instances CKAN](#répercuter-les-changements-sur-les-instances-ckan) • [Syntaxe des filtres](#syntaxe-des-filtres)
+
 ## Le répertoire des organisations
 
 Le fichier [organisations.json](/organisations/organisations.json) est le **répertoire des organisations**, soit l'export JSON d'un dictionnaire dont :
@@ -591,18 +593,18 @@ Une **condition élémentaire** est une liste dont la longueur et la composition
 
 Composition de la liste selon la nature de la condition :
 
-| 0 | 1 | 2 | 3 | 4 |
-| --- | --- | --- | --- | --- |
-| `'PropertyIsLike'` | Nom de la propriété (*str*) | Chaîne de caractères recherchée (*str*) | | |
-| `'PropertyIsNull'` | Nom de la propriété (*str*) | | | |
-| `'PropertyIsBetween'` | Nom de la propriété (*str*) | Valeur de début (*str* représentant une date ou *int* ou *float*) | Valeur de fin (idem) | |
-| `'PropertyIsGreaterThanOrEqualTo'` | Nom de la propriété (*str*) | Valeur (*str* représentant une date ou *int* ou *float*) | | |
-| `'PropertyIsLessThanOrEqualTo'` | Nom de la propriété (*str*) | Valeur (*str* représentant une date ou *int* ou *float*) | | |
-| `'PropertyIsGreaterThan'` | Nom de la propriété (*str*) | Valeur (*str* représentant une date ou *int* ou *float*) | | |
-| `'PropertyIsLessThan'` | Nom de la propriété (*str*) | Valeur (*str* représentant une date ou *int* ou *float*) | | |
-| `'PropertyIsNotEqualTo'` | Nom de la propriété (*str*) | Valeur (*str* ou *int* ou *float*) | | |
-| `'PropertyIsEqualTo'` | Nom de la propriété (*str*) | Valeur (*str* ou *int* ou *float*) | | |
-| `'BBox'` | Liste de coordonnées (*list* de *int* ou *float*)[^bbox]  | | | |
+| 0 | 1 | 2 | 3 |
+| --- | --- | --- | --- |
+| `'PropertyIsLike'` | Nom de la propriété (*str*) | Chaîne de caractères recherchée (*str*) | |
+| `'PropertyIsNull'` | Nom de la propriété (*str*) | | |
+| `'PropertyIsBetween'` | Nom de la propriété (*str*) | Valeur de début (*str* représentant une date ou *int* ou *float*) | Valeur de fin (idem) |
+| `'PropertyIsGreaterThanOrEqualTo'` | Nom de la propriété (*str*) | Valeur (*str* représentant une date ou *int* ou *float*) | |
+| `'PropertyIsLessThanOrEqualTo'` | Nom de la propriété (*str*) | Valeur (*str* représentant une date ou *int* ou *float*) | |
+| `'PropertyIsGreaterThan'` | Nom de la propriété (*str*) | Valeur (*str* représentant une date ou *int* ou *float*) | |
+| `'PropertyIsLessThan'` | Nom de la propriété (*str*) | Valeur (*str* représentant une date ou *int* ou *float*) | |
+| `'PropertyIsNotEqualTo'` | Nom de la propriété (*str*) | Valeur (*str* ou *int* ou *float*) | |
+| `'PropertyIsEqualTo'` | Nom de la propriété (*str*) | Valeur (*str* ou *int* ou *float*) | |
+| `'BBox'` | Liste de coordonnées (*list* de *int* ou *float*)[^bbox]  | | |
 
 [^bbox]: Minimum en X, minimum en Y, maximum en X, maximum en Y.
 
