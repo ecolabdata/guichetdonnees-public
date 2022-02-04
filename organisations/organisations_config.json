@@ -17,5 +17,8 @@
     "ddt-42218-01" : {
         "bypass_all": [[["PropertyIsLike", "OrganisationName", "42"], ["PropertyIsLike", "OrganisationName", "DDT"]], [["PropertyIsLike", "OrganisationName", "Direction"], ["PropertyIsLike", "OrganisationName", "départementale"], ["PropertyIsLike", "OrganisationName", "territoires"], ["PropertyIsLike", "OrganisationName", "42"]]],
         "comment": "En théorie, il est possible de construire un filtre discriminant avec 'Loire'... mais en pratique non."
+    },
+    "ddt-05061-01" : {
+        "base_filter": [["Not", "PropertyIsLike", "OrganisationName", "Provence"]]
     }
 }
