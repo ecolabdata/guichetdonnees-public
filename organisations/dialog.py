@@ -123,6 +123,7 @@ class Ckan:
             'production',
             "https://data.developpement-durable.gouv.fr",
             api_token=api_token,
+            verify=False,
             intranet=intranet
             )
 
@@ -1300,8 +1301,8 @@ class Summary(list):
                     for e in t]) for t in self]) + " |") if self else "Aucun."
                 )
         
-        with open("ckan_stats\\{}".format(self.filename), 'w',
-            encoding='utf-8') as dest:
+        with open(Path(__path__[0]) / 'ckan_stats/{}'.format(self.filename),
+            'w', encoding='utf-8') as dest:
             dest.write(txt)
 
 
