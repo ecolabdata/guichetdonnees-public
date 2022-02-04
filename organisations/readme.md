@@ -505,7 +505,7 @@ ckan = Ckan()
 ckan.dev.harvest_action('create', harvest_name=my_harvest_name)
 ```
 
-Le moissonnage en tant que tel sera lancé à la prochaine activation du cron. S'il est pertinent de l'activer plus tôt, cf. [Forcer l'exécution d'un seul moissonnage](#forcer-lexécution-dun-seul moissonnage). S'il est souhaitable que ce moissonnage soit exécuté avant ou après d'autres, il peut également être préférable de relancer tous les moissonnages dans l'ordre du répertoire - cf. [Exécuter tous les moissonnages dans l'ordre](#exécuter-tous-les-moissonnages-dans-lordre)
+Le moissonnage en tant que tel sera lancé à la prochaine activation du cron. S'il est pertinent de l'activer plus tôt, cf. [Forcer l'exécution d'un seul moissonnage](#forcer-lexécution-dun-seul-moissonnage). S'il est souhaitable que ce moissonnage soit exécuté avant ou après d'autres, il peut également être préférable de relancer tous les moissonnages dans l'ordre du répertoire - cf. [Exécuter tous les moissonnages dans l'ordre](#exécuter-tous-les-moissonnages-dans-lordre)
 
 Si la fonction ne renvoie rien, l'opération a réussi.
 
