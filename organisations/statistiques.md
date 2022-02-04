@@ -1,4 +1,4 @@
-*Dernière modification : 2022-01-07 14:42:10.*
+*Dernière modification : 2022-02-04 17:29:37.*
 
 # Statistiques
 
@@ -6,8 +6,8 @@
 
 - Nombre d'organisations répertoriées : 137.
 - Nombre de catalogues à moissonner : 22.
-- Nombre de moissonnages définis : 280.
-- Nombre de fiches moissonnées : 27972.
+- Nombre de moissonnages définis : 279.
+- Nombre de fiches moissonnées : 27897.
 
 ## Moissonnages par organisation
 
@@ -183,8 +183,7 @@
 
 ### DDT Hautes-Alpes (05)
 
-- GéoIDE Catalogue (lots) : 6 fiches.
-- GéoIDE Catalogue (jeux de données) : 82 fiches.
+- GéoIDE Catalogue (jeux de données) : 13 fiches.
 
 ### DDT Hautes-Pyrénées (65)
 
@@ -797,8 +796,7 @@ Aucun moissonnage n'est défini pour les organisations suivantes :
 - DDT Haute-Saône (70) (jeux de données) : 99 fiches.
 - DDT Haute-Vienne (87) (lots) : 18 fiches.
 - DDT Haute-Vienne (87) (jeux de données) : 99 fiches.
-- DDT Hautes-Alpes (05) (lots) : 6 fiches.
-- DDT Hautes-Alpes (05) (jeux de données) : 82 fiches.
+- DDT Hautes-Alpes (05) (jeux de données) : 13 fiches.
 - DDT Hautes-Pyrénées (65) (lots) : 373 fiches.
 - DDT Hautes-Pyrénées (65) (jeux de données) : 136 fiches.
 - DDT Indre (36) (lots) : 16 fiches.
