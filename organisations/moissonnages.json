@@ -1879,26 +1879,6 @@
         "frequency": "WEEKLY",
         "config": "{\"maxtrials\": 30, \"ogcfilter\": [[[\"PropertyIsLike\", \"Identifier\", \"fr-120066022-jdd-%\"], [\"PropertyIsLike\", \"OrganisationName\", \"83\"], [\"PropertyIsLike\", \"OrganisationName\", \"DDTM\"]], [[\"PropertyIsLike\", \"Identifier\", \"fr-120066022-jdd-%\"], [\"PropertyIsLike\", \"OrganisationName\", \"Direction\"], [\"PropertyIsLike\", \"OrganisationName\", \"départementale\"], [\"PropertyIsLike\", \"OrganisationName\", \"territoires\"], [\"PropertyIsLike\", \"OrganisationName\", \"mer\"], [\"PropertyIsLike\", \"OrganisationName\", \"83\"]], [[\"PropertyIsLike\", \"Identifier\", \"fr-120066022-jdd-%\"], [\"PropertyIsLike\", \"OrganisationName\", \"Var\"], [\"PropertyIsLike\", \"OrganisationName\", \"DDTM\"]], [[\"PropertyIsLike\", \"Identifier\", \"fr-120066022-jdd-%\"], [\"PropertyIsLike\", \"OrganisationName\", \"Var\"], [\"PropertyIsLike\", \"OrganisationName\", \"Direction\"], [\"PropertyIsLike\", \"OrganisationName\", \"départementale\"], [\"PropertyIsLike\", \"OrganisationName\", \"territoires\"], [\"PropertyIsLike\", \"OrganisationName\", \"mer\"]]], \"default_extras\": {\"Catalogue source\": \"GéoIDE Catalogue (http://catalogue.geo-ide.developpement-durable.gouv.fr)\"}}"
     },
-    "ddt-05061-01-h01": {
-        "url": "http://ogc.geo-ide.developpement-durable.gouv.fr/csw/dataset-harvestable",
-        "name": "ddt-05061-01-h01",
-        "owner_org": "ddt-05061-01",
-        "title": "CSW GéoIDE Catalogue : DDT 05 [lots]",
-        "notes": "Création 2021-12-09 17:19:14. 6 fiches à date. Moissonnage limité aux lots.",
-        "source_type": "csw",
-        "frequency": "WEEKLY",
-        "config": "{\"maxtrials\": 30, \"ogcfilter\": [[[\"PropertyIsLike\", \"Identifier\", \"fr-120066022-ldd-%\"], [\"PropertyIsLike\", \"OrganisationName\", \"05\"], [\"PropertyIsLike\", \"OrganisationName\", \"DDT\"]], [[\"PropertyIsLike\", \"Identifier\", \"fr-120066022-ldd-%\"], [\"PropertyIsLike\", \"OrganisationName\", \"Direction\"], [\"PropertyIsLike\", \"OrganisationName\", \"départementale\"], [\"PropertyIsLike\", \"OrganisationName\", \"territoires\"], [\"PropertyIsLike\", \"OrganisationName\", \"05\"]], [[\"PropertyIsLike\", \"Identifier\", \"fr-120066022-ldd-%\"], [\"PropertyIsLike\", \"OrganisationName\", \"Hautes\"], [\"PropertyIsLike\", \"OrganisationName\", \"Alpes\"], [\"PropertyIsLike\", \"OrganisationName\", \"DDT\"]], [[\"PropertyIsLike\", \"Identifier\", \"fr-120066022-ldd-%\"], [\"PropertyIsLike\", \"OrganisationName\", \"Hautes\"], [\"PropertyIsLike\", \"OrganisationName\", \"Alpes\"], [\"PropertyIsLike\", \"OrganisationName\", \"Direction\"], [\"PropertyIsLike\", \"OrganisationName\", \"départementale\"], [\"PropertyIsLike\", \"OrganisationName\", \"territoires\"]]], \"default_extras\": {\"Catalogue source\": \"GéoIDE Catalogue (http://catalogue.geo-ide.developpement-durable.gouv.fr)\"}}"
-    },
-    "ddt-05061-01-h02": {
-        "url": "http://ogc.geo-ide.developpement-durable.gouv.fr/csw/dataset-harvestable",
-        "name": "ddt-05061-01-h02",
-        "owner_org": "ddt-05061-01",
-        "title": "CSW GéoIDE Catalogue : DDT 05 [jeux de données]",
-        "notes": "Création 2021-12-09 17:19:14. 82 fiches à date. Moissonnage limité aux jeux de données.",
-        "source_type": "csw",
-        "frequency": "WEEKLY",
-        "config": "{\"maxtrials\": 30, \"ogcfilter\": [[[\"PropertyIsLike\", \"Identifier\", \"fr-120066022-jdd-%\"], [\"PropertyIsLike\", \"OrganisationName\", \"05\"], [\"PropertyIsLike\", \"OrganisationName\", \"DDT\"]], [[\"PropertyIsLike\", \"Identifier\", \"fr-120066022-jdd-%\"], [\"PropertyIsLike\", \"OrganisationName\", \"Direction\"], [\"PropertyIsLike\", \"OrganisationName\", \"départementale\"], [\"PropertyIsLike\", \"OrganisationName\", \"territoires\"], [\"PropertyIsLike\", \"OrganisationName\", \"05\"]], [[\"PropertyIsLike\", \"Identifier\", \"fr-120066022-jdd-%\"], [\"PropertyIsLike\", \"OrganisationName\", \"Hautes\"], [\"PropertyIsLike\", \"OrganisationName\", \"Alpes\"], [\"PropertyIsLike\", \"OrganisationName\", \"DDT\"]], [[\"PropertyIsLike\", \"Identifier\", \"fr-120066022-jdd-%\"], [\"PropertyIsLike\", \"OrganisationName\", \"Hautes\"], [\"PropertyIsLike\", \"OrganisationName\", \"Alpes\"], [\"PropertyIsLike\", \"OrganisationName\", \"Direction\"], [\"PropertyIsLike\", \"OrganisationName\", \"départementale\"], [\"PropertyIsLike\", \"OrganisationName\", \"territoires\"]]], \"default_extras\": {\"Catalogue source\": \"GéoIDE Catalogue (http://catalogue.geo-ide.developpement-durable.gouv.fr)\"}}"
-    },
     "ddt-13055-01-h01": {
         "url": "http://ogc.geo-ide.developpement-durable.gouv.fr/csw/dataset-harvestable",
         "name": "ddt-13055-01-h01",
@@ -2798,5 +2778,15 @@
         "source_type": "csw",
         "frequency": "WEEKLY",
         "config": "{\"maxtrials\": 5, \"ogcfilter\": [[[\"PropertyIsEqualTo\", \"dc:type\", \"dataset\"], [\"Not\", \"PropertyIsLike\", \"Identifier\", \"fr-120066022-%\"], [\"PropertyIsLike\", \"OrganisationName\", \"%Auvergne%\"], [\"PropertyIsLike\", \"OrganisationName\", \"%Rhône%\"], [\"PropertyIsLike\", \"OrganisationName\", \"%Alpes%\"], [\"PropertyIsLike\", \"OrganisationName\", \"%%DREAL%%\"]], [[\"PropertyIsEqualTo\", \"dc:type\", \"dataset\"], [\"Not\", \"PropertyIsLike\", \"Identifier\", \"fr-120066022-%\"], [\"PropertyIsLike\", \"OrganisationName\", \"%Auvergne%\"], [\"PropertyIsLike\", \"OrganisationName\", \"%Rhône%\"], [\"PropertyIsLike\", \"OrganisationName\", \"%Alpes%\"], [\"PropertyIsLike\", \"OrganisationName\", \"%Direction%\"], [\"PropertyIsLike\", \"OrganisationName\", \"%régionale%\"], [\"PropertyIsLike\", \"OrganisationName\", \"%environnement,%\"], [\"PropertyIsLike\", \"OrganisationName\", \"%aménagement%\"], [\"PropertyIsLike\", \"OrganisationName\", \"%logement%\"]]], \"default_extras\": {\"Catalogue source\": \"IDéo BFC (https://ideo.ternum-bfc.fr)\"}}"
+    },
+    "ddt-05061-01-h01": {
+        "url": "http://ogc.geo-ide.developpement-durable.gouv.fr/csw/dataset-harvestable",
+        "name": "ddt-05061-01-h01",
+        "owner_org": "ddt-05061-01",
+        "title": "CSW GéoIDE Catalogue : DDT 05 [jeux de données]",
+        "notes": "Création 2022-02-04 17:29:37. 13 fiches à date. Moissonnage limité aux jeux de données.",
+        "source_type": "csw",
+        "frequency": "WEEKLY",
+        "config": "{\"maxtrials\": 30, \"ogcfilter\": [[[\"Not\", \"PropertyIsLike\", \"OrganisationName\", \"Provence\"], [\"PropertyIsLike\", \"Identifier\", \"fr-120066022-jdd-%\"], [\"PropertyIsLike\", \"OrganisationName\", \"05\"], [\"PropertyIsLike\", \"OrganisationName\", \"DDT\"]], [[\"Not\", \"PropertyIsLike\", \"OrganisationName\", \"Provence\"], [\"PropertyIsLike\", \"Identifier\", \"fr-120066022-jdd-%\"], [\"PropertyIsLike\", \"OrganisationName\", \"Direction\"], [\"PropertyIsLike\", \"OrganisationName\", \"départementale\"], [\"PropertyIsLike\", \"OrganisationName\", \"territoires\"], [\"PropertyIsLike\", \"OrganisationName\", \"05\"]], [[\"Not\", \"PropertyIsLike\", \"OrganisationName\", \"Provence\"], [\"PropertyIsLike\", \"Identifier\", \"fr-120066022-jdd-%\"], [\"PropertyIsLike\", \"OrganisationName\", \"Hautes\"], [\"PropertyIsLike\", \"OrganisationName\", \"Alpes\"], [\"PropertyIsLike\", \"OrganisationName\", \"DDT\"]], [[\"Not\", \"PropertyIsLike\", \"OrganisationName\", \"Provence\"], [\"PropertyIsLike\", \"Identifier\", \"fr-120066022-jdd-%\"], [\"PropertyIsLike\", \"OrganisationName\", \"Hautes\"], [\"PropertyIsLike\", \"OrganisationName\", \"Alpes\"], [\"PropertyIsLike\", \"OrganisationName\", \"Direction\"], [\"PropertyIsLike\", \"OrganisationName\", \"départementale\"], [\"PropertyIsLike\", \"OrganisationName\", \"territoires\"]]], \"default_extras\": {\"Catalogue source\": \"GéoIDE Catalogue (http://catalogue.geo-ide.developpement-durable.gouv.fr)\"}}"
     }
 }
