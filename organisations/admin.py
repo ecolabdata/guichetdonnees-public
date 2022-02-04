@@ -935,7 +935,7 @@ class OrgCollection(dict):
                 "manquant dans le répertoire courant.")
 
         d_config = {}
-        p = Path('organisations_config.json')
+        p = Path(__path__[0]) / 'organisations_config.json'
         if p.exists() and p.is_file():
             with open(p, encoding='utf-8') as src:
                 d_config = json.load(src)
