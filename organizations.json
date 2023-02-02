@@ -24,7 +24,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D45\"]"
+                "value": [
+                    "D45"
+                ]
             }
         ]
     },
@@ -53,7 +55,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D37\"]"
+                "value": [
+                    "D37"
+                ]
             }
         ]
     },
@@ -82,7 +86,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D56\"]"
+                "value": [
+                    "D56"
+                ]
             }
         ]
     },
@@ -111,7 +117,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D59\"]"
+                "value": [
+                    "D59"
+                ]
             }
         ]
     },
@@ -140,7 +148,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D26\"]"
+                "value": [
+                    "D26"
+                ]
             }
         ]
     },
@@ -169,7 +179,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D06\"]"
+                "value": [
+                    "D06"
+                ]
             }
         ]
     },
@@ -198,7 +210,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D72\"]"
+                "value": [
+                    "D72"
+                ]
             }
         ]
     },
@@ -227,7 +241,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D08\"]"
+                "value": [
+                    "D08"
+                ]
             }
         ]
     },
@@ -256,7 +272,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D57\"]"
+                "value": [
+                    "D57"
+                ]
             }
         ]
     },
@@ -285,7 +303,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D90\"]"
+                "value": [
+                    "D90"
+                ]
             }
         ]
     },
@@ -314,7 +334,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D61\"]"
+                "value": [
+                    "D61"
+                ]
             }
         ]
     },
@@ -343,7 +365,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D84\"]"
+                "value": [
+                    "D84"
+                ]
             }
         ]
     },
@@ -372,7 +396,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D23\"]"
+                "value": [
+                    "D23"
+                ]
             }
         ]
     },
@@ -401,7 +427,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D65\"]"
+                "value": [
+                    "D65"
+                ]
             }
         ]
     },
@@ -430,7 +458,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D68\"]"
+                "value": [
+                    "D68"
+                ]
             }
         ]
     },
@@ -459,7 +489,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D12\"]"
+                "value": [
+                    "D12"
+                ]
             }
         ]
     },
@@ -488,7 +520,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D21\"]"
+                "value": [
+                    "D21"
+                ]
             }
         ]
     },
@@ -517,7 +551,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D44\"]"
+                "value": [
+                    "D44"
+                ]
             }
         ]
     },
@@ -546,7 +582,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D22\"]"
+                "value": [
+                    "D22"
+                ]
             }
         ]
     },
@@ -575,7 +613,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D33\"]"
+                "value": [
+                    "D33"
+                ]
             }
         ]
     },
@@ -604,7 +644,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D79\"]"
+                "value": [
+                    "D79"
+                ]
             }
         ]
     },
@@ -633,7 +675,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D87\"]"
+                "value": [
+                    "D87"
+                ]
             }
         ]
     },
@@ -662,7 +706,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D15\"]"
+                "value": [
+                    "D15"
+                ]
             }
         ]
     },
@@ -691,7 +737,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D03\"]"
+                "value": [
+                    "D03"
+                ]
             }
         ]
     },
@@ -720,7 +768,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D38\"]"
+                "value": [
+                    "D38"
+                ]
             }
         ]
     },
@@ -749,7 +799,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D62\"]"
+                "value": [
+                    "D62"
+                ]
             }
         ]
     },
@@ -778,7 +830,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D29\"]"
+                "value": [
+                    "D29"
+                ]
             }
         ]
     },
@@ -803,7 +857,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D78\"]"
+                "value": [
+                    "D78"
+                ]
             }
         ]
     },
@@ -832,7 +888,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D76\"]"
+                "value": [
+                    "D76"
+                ]
             }
         ]
     },
@@ -861,7 +919,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D64\"]"
+                "value": [
+                    "D64"
+                ]
             }
         ]
     },
@@ -890,7 +950,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D88\"]"
+                "value": [
+                    "D88"
+                ]
             }
         ]
     },
@@ -919,7 +981,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D42\"]"
+                "value": [
+                    "D42"
+                ]
             }
         ]
     },
@@ -948,7 +1012,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D16\"]"
+                "value": [
+                    "D16"
+                ]
             }
         ]
     },
@@ -977,7 +1043,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D07\"]"
+                "value": [
+                    "D07"
+                ]
             }
         ]
     },
@@ -1006,7 +1074,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D04\"]"
+                "value": [
+                    "D04"
+                ]
             }
         ]
     },
@@ -1035,7 +1105,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D81\"]"
+                "value": [
+                    "D81"
+                ]
             }
         ]
     },
@@ -1064,7 +1136,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D39\"]"
+                "value": [
+                    "D39"
+                ]
             }
         ]
     },
@@ -1093,7 +1167,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D73\"]"
+                "value": [
+                    "D73"
+                ]
             }
         ]
     },
@@ -1122,7 +1198,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D70\"]"
+                "value": [
+                    "D70"
+                ]
             }
         ]
     },
@@ -1151,7 +1229,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D09\"]"
+                "value": [
+                    "D09"
+                ]
             }
         ]
     },
@@ -1180,7 +1260,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D17\"]"
+                "value": [
+                    "D17"
+                ]
             }
         ]
     },
@@ -1209,7 +1291,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D66\"]"
+                "value": [
+                    "D66"
+                ]
             }
         ]
     },
@@ -1238,7 +1322,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D51\"]"
+                "value": [
+                    "D51"
+                ]
             }
         ]
     },
@@ -1267,7 +1353,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D30\"]"
+                "value": [
+                    "D30"
+                ]
             }
         ]
     },
@@ -1296,7 +1384,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D24\"]"
+                "value": [
+                    "D24"
+                ]
             }
         ]
     },
@@ -1325,7 +1415,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D86\"]"
+                "value": [
+                    "D86"
+                ]
             }
         ]
     },
@@ -1354,7 +1446,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D49\"]"
+                "value": [
+                    "D49"
+                ]
             }
         ]
     },
@@ -1383,7 +1477,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D77\"]"
+                "value": [
+                    "D77"
+                ]
             }
         ]
     },
@@ -1412,7 +1508,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D40\"]"
+                "value": [
+                    "D40"
+                ]
             }
         ]
     },
@@ -1441,7 +1539,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D60\"]"
+                "value": [
+                    "D60"
+                ]
             }
         ]
     },
@@ -1470,7 +1570,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D85\"]"
+                "value": [
+                    "D85"
+                ]
             }
         ]
     },
@@ -1499,7 +1601,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D14\"]"
+                "value": [
+                    "D14"
+                ]
             }
         ]
     },
@@ -1528,7 +1632,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D52\"]"
+                "value": [
+                    "D52"
+                ]
             }
         ]
     },
@@ -1557,7 +1663,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D02\"]"
+                "value": [
+                    "D02"
+                ]
             }
         ]
     },
@@ -1586,7 +1694,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D28\"]"
+                "value": [
+                    "D28"
+                ]
             }
         ]
     },
@@ -1615,7 +1725,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D74\"]"
+                "value": [
+                    "D74"
+                ]
             }
         ]
     },
@@ -1644,7 +1756,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D83\"]"
+                "value": [
+                    "D83"
+                ]
             }
         ]
     },
@@ -1673,7 +1787,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D05\"]"
+                "value": [
+                    "D05"
+                ]
             }
         ]
     },
@@ -1702,7 +1818,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D13\"]"
+                "value": [
+                    "D13"
+                ]
             }
         ]
     },
@@ -1731,7 +1849,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D53\"]"
+                "value": [
+                    "D53"
+                ]
             }
         ]
     },
@@ -1760,7 +1880,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D80\"]"
+                "value": [
+                    "D80"
+                ]
             }
         ]
     },
@@ -1789,7 +1911,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D10\"]"
+                "value": [
+                    "D10"
+                ]
             }
         ]
     },
@@ -1818,7 +1942,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D27\"]"
+                "value": [
+                    "D27"
+                ]
             }
         ]
     },
@@ -1847,7 +1973,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D11\"]"
+                "value": [
+                    "D11"
+                ]
             }
         ]
     },
@@ -1876,7 +2004,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D48\"]"
+                "value": [
+                    "D48"
+                ]
             }
         ]
     },
@@ -1905,7 +2035,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D41\"]"
+                "value": [
+                    "D41"
+                ]
             }
         ]
     },
@@ -1934,7 +2066,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D32\"]"
+                "value": [
+                    "D32"
+                ]
             }
         ]
     },
@@ -1963,7 +2097,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D25\"]"
+                "value": [
+                    "D25"
+                ]
             }
         ]
     },
@@ -1992,7 +2128,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D89\"]"
+                "value": [
+                    "D89"
+                ]
             }
         ]
     },
@@ -2021,7 +2159,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D58\"]"
+                "value": [
+                    "D58"
+                ]
             }
         ]
     },
@@ -2050,7 +2190,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D50\"]"
+                "value": [
+                    "D50"
+                ]
             }
         ]
     },
@@ -2079,7 +2221,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D95\"]"
+                "value": [
+                    "D95"
+                ]
             }
         ]
     },
@@ -2108,7 +2252,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D55\"]"
+                "value": [
+                    "D55"
+                ]
             }
         ]
     },
@@ -2137,7 +2283,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D01\"]"
+                "value": [
+                    "D01"
+                ]
             }
         ]
     },
@@ -2166,7 +2314,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D82\"]"
+                "value": [
+                    "D82"
+                ]
             }
         ]
     },
@@ -2195,7 +2345,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D36\"]"
+                "value": [
+                    "D36"
+                ]
             }
         ]
     },
@@ -2224,7 +2376,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D46\"]"
+                "value": [
+                    "D46"
+                ]
             }
         ]
     },
@@ -2253,7 +2407,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D71\"]"
+                "value": [
+                    "D71"
+                ]
             }
         ]
     },
@@ -2282,7 +2438,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D35\"]"
+                "value": [
+                    "D35"
+                ]
             }
         ]
     },
@@ -2307,7 +2465,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D43\"]"
+                "value": [
+                    "D43"
+                ]
             }
         ]
     },
@@ -2336,7 +2496,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D19\"]"
+                "value": [
+                    "D19"
+                ]
             }
         ]
     },
@@ -2365,7 +2527,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D91\"]"
+                "value": [
+                    "D91"
+                ]
             }
         ]
     },
@@ -2394,7 +2558,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D47\"]"
+                "value": [
+                    "D47"
+                ]
             }
         ]
     },
@@ -2423,7 +2589,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D69\"]"
+                "value": [
+                    "D69"
+                ]
             }
         ]
     },
@@ -2452,7 +2620,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D63\"]"
+                "value": [
+                    "D63"
+                ]
             }
         ]
     },
@@ -2481,7 +2651,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D67\"]"
+                "value": [
+                    "D67"
+                ]
             }
         ]
     },
@@ -2510,7 +2682,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D34\"]"
+                "value": [
+                    "D34"
+                ]
             }
         ]
     },
@@ -2539,7 +2713,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D31\"]"
+                "value": [
+                    "D31"
+                ]
             }
         ]
     },
@@ -2568,7 +2744,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D18\"]"
+                "value": [
+                    "D18"
+                ]
             }
         ]
     },
@@ -2597,7 +2775,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D54\"]"
+                "value": [
+                    "D54"
+                ]
             }
         ]
     },
@@ -2626,7 +2806,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"CVL\"]"
+                "value": [
+                    "CVL"
+                ]
             }
         ]
     },
@@ -2655,7 +2837,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"HDF\"]"
+                "value": [
+                    "HDF"
+                ]
             }
         ]
     },
@@ -2684,7 +2868,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"GES\"]"
+                "value": [
+                    "GES"
+                ]
             }
         ]
     },
@@ -2713,7 +2899,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"PDL\"]"
+                "value": [
+                    "PDL"
+                ]
             }
         ]
     },
@@ -2742,7 +2930,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"NOR\"]"
+                "value": [
+                    "NOR"
+                ]
             }
         ]
     },
@@ -2771,7 +2961,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"NAQ\"]"
+                "value": [
+                    "NAQ"
+                ]
             }
         ]
     },
@@ -2796,7 +2988,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"PAC\"]"
+                "value": [
+                    "PAC"
+                ]
             }
         ]
     },
@@ -2825,7 +3019,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"BFC\"]"
+                "value": [
+                    "BFC"
+                ]
             }
         ]
     },
@@ -2854,7 +3050,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"COR\"]"
+                "value": [
+                    "COR"
+                ]
             }
         ]
     },
@@ -2883,7 +3081,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"BRE\"]"
+                "value": [
+                    "BRE"
+                ]
             }
         ]
     },
@@ -2912,7 +3112,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"ARA\"]"
+                "value": [
+                    "ARA"
+                ]
             }
         ]
     },
@@ -2941,7 +3143,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"OCC\"]"
+                "value": [
+                    "OCC"
+                ]
             }
         ]
     },
@@ -2966,7 +3170,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"IDF\"]"
+                "value": [
+                    "IDF"
+                ]
             }
         ]
     },
@@ -2987,11 +3193,13 @@
             },
             {
                 "key": "Type",
-                "value": "DIRID"
+                "value": "DD"
             },
             {
                 "key": "Territoire",
-                "value": "[\"D93\"]"
+                "value": [
+                    "D93"
+                ]
             }
         ],
         "groups": [
@@ -3017,11 +3225,13 @@
             },
             {
                 "key": "Type",
-                "value": "DIRID"
+                "value": "DD"
             },
             {
                 "key": "Territoire",
-                "value": "[\"D92\"]"
+                "value": [
+                    "D92"
+                ]
             }
         ],
         "groups": [
@@ -3047,11 +3257,13 @@
             },
             {
                 "key": "Type",
-                "value": "DIRID"
+                "value": "DD"
             },
             {
                 "key": "Territoire",
-                "value": "[\"D75\"]"
+                "value": [
+                    "D75"
+                ]
             }
         ],
         "groups": [
@@ -3081,11 +3293,13 @@
             },
             {
                 "key": "Type",
-                "value": "DIRID"
+                "value": "DD"
             },
             {
                 "key": "Territoire",
-                "value": "[\"D94\"]"
+                "value": [
+                    "D94"
+                ]
             }
         ],
         "groups": [
@@ -3119,7 +3333,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"GUF\"]"
+                "value": [
+                    "GUF"
+                ]
             }
         ]
     },
@@ -3148,7 +3364,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"MTQ\"]"
+                "value": [
+                    "MTQ"
+                ]
             }
         ]
     },
@@ -3173,7 +3391,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"GLP\"]"
+                "value": [
+                    "GLP"
+                ]
             }
         ]
     },
@@ -3202,7 +3422,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"REU\"]"
+                "value": [
+                    "REU"
+                ]
             }
         ]
     },
@@ -3227,7 +3449,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"MYT\"]"
+                "value": [
+                    "MYT"
+                ]
             }
         ]
     },
@@ -3256,7 +3480,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"IDF\"]"
+                "value": [
+                    "IDF"
+                ]
             }
         ]
     },
@@ -3285,7 +3511,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"SPM\"]"
+                "value": [
+                    "SPM"
+                ]
             }
         ]
     },
@@ -3314,7 +3542,14 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D16\", \"D17\", \"D33\", \"D64\", \"D79\", \"D86\"]"
+                "value": [
+                    "D16",
+                    "D17",
+                    "D33",
+                    "D64",
+                    "D79",
+                    "D86"
+                ]
             }
         ]
     },
@@ -3343,7 +3578,22 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D01\", \"D03\", \"D07\", \"D10\", \"D21\", \"D26\", \"D38\", \"D42\", \"D58\", \"D69\", \"D71\", \"D73\", \"D74\", \"D89\"]"
+                "value": [
+                    "D01",
+                    "D03",
+                    "D07",
+                    "D10",
+                    "D21",
+                    "D26",
+                    "D38",
+                    "D42",
+                    "D58",
+                    "D69",
+                    "D71",
+                    "D73",
+                    "D74",
+                    "D89"
+                ]
             }
         ]
     },
@@ -3372,7 +3622,21 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D03\", \"D16\", \"D18\", \"D19\", \"D23\", \"D24\", \"D36\", \"D37\", \"D47\", \"D49\", \"D79\", \"D86\", \"D87\"]"
+                "value": [
+                    "D03",
+                    "D16",
+                    "D18",
+                    "D19",
+                    "D23",
+                    "D24",
+                    "D36",
+                    "D37",
+                    "D47",
+                    "D49",
+                    "D79",
+                    "D86",
+                    "D87"
+                ]
             }
         ]
     },
@@ -3401,7 +3665,18 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D25\", \"D39\", \"D51\", \"D52\", \"D54\", \"D55\", \"D57\", \"D70\", \"D88\", \"D90\"]"
+                "value": [
+                    "D25",
+                    "D39",
+                    "D51",
+                    "D52",
+                    "D54",
+                    "D55",
+                    "D57",
+                    "D70",
+                    "D88",
+                    "D90"
+                ]
             }
         ]
     },
@@ -3430,7 +3705,16 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D07\", \"D12\", \"D15\", \"D34\", \"D43\", \"D46\", \"D48\", \"D63\"]"
+                "value": [
+                    "D07",
+                    "D12",
+                    "D15",
+                    "D34",
+                    "D43",
+                    "D46",
+                    "D48",
+                    "D63"
+                ]
             }
         ]
     },
@@ -3459,7 +3743,17 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D04\", \"D05\", \"D13\", \"D30\", \"D34\", \"D38\", \"D48\", \"D83\", \"D84\"]"
+                "value": [
+                    "D04",
+                    "D05",
+                    "D13",
+                    "D30",
+                    "D34",
+                    "D38",
+                    "D48",
+                    "D83",
+                    "D84"
+                ]
             }
         ]
     },
@@ -3488,7 +3782,15 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D02\", \"D08\", \"D51\", \"D59\", \"D60\", \"D62\", \"D80\"]"
+                "value": [
+                    "D02",
+                    "D08",
+                    "D51",
+                    "D59",
+                    "D60",
+                    "D62",
+                    "D80"
+                ]
             }
         ]
     },
@@ -3517,7 +3819,19 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D14\", \"D27\", \"D28\", \"D37\", \"D41\", \"D50\", \"D60\", \"D61\", \"D76\", \"D78\", \"D80\"]"
+                "value": [
+                    "D14",
+                    "D27",
+                    "D28",
+                    "D37",
+                    "D41",
+                    "D50",
+                    "D60",
+                    "D61",
+                    "D76",
+                    "D78",
+                    "D80"
+                ]
             }
         ]
     },
@@ -3546,7 +3860,15 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D22\", \"D29\", \"D35\", \"D44\", \"D49\", \"D53\", \"D56\"]"
+                "value": [
+                    "D22",
+                    "D29",
+                    "D35",
+                    "D44",
+                    "D49",
+                    "D53",
+                    "D56"
+                ]
             }
         ]
     },
@@ -3575,7 +3897,16 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D09\", \"D31\", \"D32\", \"D33\", \"D40\", \"D65\", \"D66\", \"D81\"]"
+                "value": [
+                    "D09",
+                    "D31",
+                    "D32",
+                    "D33",
+                    "D40",
+                    "D65",
+                    "D66",
+                    "D81"
+                ]
             }
         ]
     },
@@ -3600,7 +3931,16 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D75\", \"D77\", \"D78\", \"D91\", \"D92\", \"D93\", \"D94\", \"D95\"]"
+                "value": [
+                    "D75",
+                    "D77",
+                    "D78",
+                    "D91",
+                    "D92",
+                    "D93",
+                    "D94",
+                    "D95"
+                ]
             }
         ]
     },
@@ -3629,7 +3969,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"ZM-FX-Med\"]"
+                "value": [
+                    "ZM-FX-Med"
+                ]
             }
         ]
     },
@@ -3658,7 +4000,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"ZM-FX-MMN\"]"
+                "value": [
+                    "ZM-FX-MMN"
+                ]
             }
         ]
     },
@@ -3687,7 +4031,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"ZM-FX-Atl\"]"
+                "value": [
+                    "ZM-FX-Atl"
+                ]
             }
         ]
     },
@@ -3716,7 +4062,10 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"ZM-FX-Atl\", \"ZM-FX-MMN\"]"
+                "value": [
+                    "ZM-FX-Atl",
+                    "ZM-FX-MMN"
+                ]
             }
         ]
     },
@@ -3741,7 +4090,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"National\"]"
+                "value": [
+                    "National"
+                ]
             }
         ]
     },
@@ -3766,7 +4117,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"National\"]"
+                "value": [
+                    "National"
+                ]
             }
         ]
     },
@@ -3791,7 +4144,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"National\"]"
+                "value": [
+                    "National"
+                ]
             }
         ]
     },
@@ -3816,7 +4171,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"National\"]"
+                "value": [
+                    "National"
+                ]
             }
         ]
     },
@@ -3841,7 +4198,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"National\"]"
+                "value": [
+                    "National"
+                ]
             }
         ],
         "groups": [
@@ -3875,7 +4234,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D2b\"]"
+                "value": [
+                    "D2b"
+                ]
             }
         ]
     },
@@ -3904,7 +4265,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"D2a\"]"
+                "value": [
+                    "D2a"
+                ]
             }
         ]
     },
@@ -3929,7 +4292,9 @@
             },
             {
                 "key": "Territoire",
-                "value": "[\"National\"]"
+                "value": [
+                    "National"
+                ]
             }
         ]
     }
