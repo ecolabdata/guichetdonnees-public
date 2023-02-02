@@ -1,4 +1,19 @@
-"""Définition des organisations."""
+"""Définition des organisations.
+
+Chargement du répertoire des organisations à partir du
+fichier ``organizations.py`` (à la racine du dépôt) :
+
+    >>> Organization.load()
+
+Sauvegarde du répertoire dans ce même fichier après mise à jour :
+
+    >>> Organization.dump()
+
+Le fichier est validé au moment de la sauvegarde, ce qui explique
+qu'elle ne soit pas immédiate (et puisse échouer si les données sont
+invalides).
+
+"""
 
 import json, requests
 from pathlib import Path
@@ -374,8 +389,8 @@ class Organization:
         if self.groups:
             d['groups'] = self.groups
         for key, value in self.extras.items():
-            if isinstance(value, (list, dict)):
-                value = json.dumps(value, ensure_ascii=False)
+            # if isinstance(value, (list, dict)):
+            #     value = json.dumps(value, ensure_ascii=False)
             d['extras'].append(
                 {
                     'key': Organization.PROPERTY_LABELS.get(key, key),
@@ -468,7 +483,7 @@ class Organization:
     def territories(self, value):
         if value:
             if isinstance(value, str):
-                value = [str]
+                value = [value]
             else:
                 value = list(value)
                 value.sort()
