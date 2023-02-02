@@ -177,8 +177,11 @@ class CkanEnv:
         # autrement par le paramètre de configuration
         # ckan.group_and_organization_list_max.
         if not action_success(r):
-            raise DialogError("Echec de l'import de la liste" \
-                "des organisations de l'instance.")
+            raise DialogError(
+                "Echec de l'import de la liste"
+                " des organisations de l'instance. "
+                f"Erreur {r.status_code} : {r.reason}."
+            )
         ckan_org = r.json()['result'] or []
 
         # ------ chargement du répertoire ------
