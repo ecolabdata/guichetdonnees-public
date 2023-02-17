@@ -4096,6 +4096,38 @@
             }
         ]
     },
+    "788fbe81-0c4b-4cea-b43a-9074d6aebe01": {
+        "name": "788fbe81-0c4b-4cea-b43a-9074d6aebe01",
+        "title": "DEB",
+        "label": "Direction de l'eau et de la biodiversité (DEB)",
+        "image_url": "https://registre.data.developpement-durable.gouv.fr/logos/administration-centrale-ou-ministere.png",
+        "description": "Texte de référence : [Décret n° 2008-680 du 9 juillet 2008 portant organisation de l'administration centrale du ministère de l'écologie, de l'énergie, du développement durable et de l'aménagement du territoire](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000045275722).",
+        "extras": [
+            {
+                "key": "Téléphone",
+                "value": "01 40 81 21 22"
+            },
+            {
+                "key": "Site internet",
+                "value": "https://www.ecologie.gouv.fr/"
+            },
+            {
+                "key": "Type",
+                "value": "AC"
+            },
+            {
+                "key": "Territoire",
+                "value": [
+                    "National"
+                ]
+            }
+        ],
+        "groups": [
+            {
+                "name": "administration-centrale-ou-ministere_172160"
+            }
+        ]
+    },
     "administration-centrale-ou-ministere_172170": {
         "name": "administration-centrale-ou-ministere_172170",
         "title": "DGITM",
