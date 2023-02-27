@@ -674,6 +674,37 @@ class CkanEnv:
                 verify=self.verify,
                 **REQUESTS_CONFIG
                 )
+    
+    def load_vocabulary(self, vocabularies=None):
+        """Lance une requête d'action sur l'API de l'instance CKAN.
+
+        Parameters
+        ---------
+        vocabularies : str or list(str), optional
+            Liste des vocabulaires à charger sur l'instance.
+            Si non spécifié, tous les vocabulaires sont considérés.
+
+        Returns
+        -------
+        requests.Response
+            Le résultat renvoyé par requests.
+        
+        """
+        if isinstance(vocabularies, str):
+            vocabularies = [vocabularies]
+        with warnings.catch_warnings():
+            if not self.verify:
+                warnings.simplefilter("ignore", category=InsecureRequestWarning)
+                # pour les avertissements sur la non-vérification
+                # des certificats, qui apparaissent sinon à chaque requête
+                # envoyée à l'API
+            return requests.post(
+                f"{self.url}/api/load-vocab",
+                json={'vocab_list': vocabularies} if vocabularies else {},
+                headers={ "Authorization": self.api_token },
+                verify=self.verify,
+                **REQUESTS_CONFIG
+                )
 
     def read_harvest_log(self, limit=10):
         """Affiche les logs de moissonnage dans la console.
