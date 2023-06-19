@@ -73,7 +73,7 @@ class Ckan:
             api_token = None
             if p.exists() and p.is_file():
                 with open(p, encoding='utf-8') as src:
-                    api_token = src.read()
+                    api_token = src.read().strip()
             setattr(
                 self,
                 env['name'],
