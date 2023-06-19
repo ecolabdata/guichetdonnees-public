@@ -31,6 +31,12 @@ ECOSPHERES_ENV = [
         'verify': False
     },
     {
+        'name': 'integration',
+        'title': 'intégration (distant)',
+        'url': 'https://integration.data.e2.rie.gouv.fr',
+        'verify': False
+    },
+    {
         'name': 'dev',
         'title': 'développement (distant)',
         'url': 'https://dev.data.developpement-durable.gouv.fr',
