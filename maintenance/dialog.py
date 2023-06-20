@@ -941,13 +941,12 @@ class CkanEnv:
                 {
                     'fq': '+dataset_type:harvest',
                     'rows': rows,
-                    'fl': 'id, name',
                     'start': start
                 }
             )
             if not action_success(r):
                 raise DialogError(
-                    "Impossible de dresser la liste des moissonnages."
+                    f"Impossible de dresser la liste des moissonnages: {r}"
                 )
             l = r.json()['result']['results']
             if not l:
