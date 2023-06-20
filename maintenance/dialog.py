@@ -941,13 +941,12 @@ class CkanEnv:
                 {
                     'fq': '+dataset_type:harvest',
                     'rows': rows,
-                    'fl': 'id, name',
                     'start': start
                 }
             )
             if not action_success(r):
                 raise DialogError(
-                    "Impossible de dresser la liste des moissonnages."
+                    f"Impossible de dresser la liste des moissonnages: {extract_error(r)}"
                 )
             l = r.json()['result']['results']
             if not l:
@@ -1352,6 +1351,29 @@ def action_success(action_result):
         return True
     else:
         return False
+
+
+def extract_error(action_result):
+    """Renvoie le message d'erreur correspondant à la réponse.
+
+    Parameters
+    ----------
+    action_result : requests.Response
+        Le résultat de la requête, tel que renvoyé par
+        requests.
+
+    Returns
+    -------
+    str
+        Message d'erreur.
+    """
+    if action_result.status_code == 200:
+        json = action_result.json()
+        if json['success']:
+            return None
+        return json['error']
+    else:
+        return f"HTTP error {action_result.status_code}"
 
 
 def json_import(filename):
