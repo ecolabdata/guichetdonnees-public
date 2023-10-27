@@ -757,7 +757,7 @@
         "notes": "Création 2021-11-09 16:39:02. 3 fiches à date.",
         "source_type": "csw",
         "frequency": "WEEKLY",
-        "config": "{\"maxtrials\": 5, \"ogcfilter\": [[[\"PropertyIsLike\", \"OrganisationName\", \"%Service%\"], [\"PropertyIsLike\", \"OrganisationName\", \"%données%\"], [\"PropertyIsLike\", \"OrganisationName\", \"%études%\"], [\"PropertyIsLike\", \"OrganisationName\", \"%statistiques%\"]], [[\"PropertyIsLike\", \"OrganisationName\", \"%SDES%\"]], [\"PropertyIsLike\", \"OrganisationName\", \"%SOeS%\"]], \"default_extras\": {\"source_catalog\": \"Géoportail IGN (http://www.geoportail.gouv.fr)\"}}"
+        "config": "{\"maxtrials\": 5, \"ogcfilter\": [[[\"PropertyIsLike\", \"OrganisationName\", \"%Service%\"], [\"PropertyIsLike\", \"OrganisationName\", \"%données%\"], [\"PropertyIsLike\", \"OrganisationName\", \"%études%\"], [\"PropertyIsLike\", \"OrganisationName\", \"%statistiques%\"]], [[\"PropertyIsLike\", \"OrganisationName\", \"%SDES%\"]], [\"PropertyIsLike\", \"OrganisationName\", \"%SOeS%\"]], \"default_extras\": {\"catalog_title\": \"Géoservices IGN\", \"catalog_homepage\": \"https://geoservices.ign.fr/catalogue\", \"catalog_base_url\": \"https://geoservices.ign.fr/bdalti/\"}}"
     },
     "ddt-2b033-01-h02": {
         "url": "https://georchestra.ac-corse.fr/geonetwork/srv/fre/csw",
